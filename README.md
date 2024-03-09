@@ -13,7 +13,7 @@ A little more about me:
 Fun Facts:  
 ⚡ I once debugged a piece of code so elusive, it's now known as the "Loch Ness Bug".  
 😄 Pronouns: Any  
-📫 How to reach me: [Mywebsite](siddarthadarisi.com)  
+📫 How to reach me: [MyWebsite](siddarthadarisi.com)  
 🎮 In my free time, I'm either conquering virtual worlds or mastering the art of cooking.  
 "Code is like humor. When you have to explain it, it’s bad." - Me, after a long debugging session.  
 <!--
